@@ -1,0 +1,1 @@
+An implementation of tarot in Java as a Javalin web application.
